@@ -31,13 +31,13 @@ Chicken Biryani is cooked with **long grained flavored rice** called Basmati and
 
 Below are the list of places I have visited in India and the places I would like to recommend to others who want to visit India. And I have also added number of hours a visitor should spend in the location and the expected pay.
 
-| Location | Number of hours <br> that a visitor <br> should spend |Amount of money<br> someone should <br> expect to pay |
-| :---: | :---: | :---: |
-| Ooty | 48hrs| $500 |
-| Lonavla | 10hrs | $150 |
-| Lavasa | 5hrs | $100|
-| Alibag Beach | 8hrs | $300 |
-| Ellora Caves | 4hrs| $200 |
+| Location | Number of hours <br> that a visitor <br> should spend |Amount of money<br> someone should <br> expect to pay | pictures of location |
+| :---: | :---: | :---: | :---: |
+| Ooty | 48hrs| $500 |![Ooty](images/ooty_image.jpg)|
+| Lonavla | 10hrs | $150 | ![Lonavla](images/lonavla_image.jpg)|
+| Lavasa | 5hrs | $100|![Lavasa](images/lavasa_image.jpg)|
+| Alibag Beach | 8hrs | $300 |![Alibag Beach](images/alibag_image.jpg)|
+| Ellora Caves | 4hrs| $200 |![Ellora Caves](images/ellora_caves_image.jpg)|
 
 ***
 # My favorite quotes 
