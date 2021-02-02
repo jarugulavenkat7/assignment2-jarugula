@@ -52,8 +52,8 @@ Below are the list of places I have visited in India and the places I would like
 
 >MATLAB (an abbreviation of "matrix laboratory") is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.
 
-Click here to navigate to the source page <https://en.wikipedia.org/wiki/MATLAB>
-
+***Click on the link to navigate to the source page*** <https://en.wikipedia.org/wiki/MATLAB>
+### Below is the sample code
 ```
 classdef Hello
     methods
@@ -64,6 +64,6 @@ classdef Hello
 end
 
 ```
-Click here to navigate to the code source page <https://en.wikipedia.org/wiki/MATLAB#Classes_and_object-oriented_programming>
+***Click on the link to navigate to the code source page*** <https://en.wikipedia.org/wiki/MATLAB#Classes_and_object-oriented_programming>
 
 
