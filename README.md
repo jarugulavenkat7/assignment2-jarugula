@@ -15,14 +15,15 @@ Chicken Biryani is cooked with **long grained flavored rice** called Basmati and
 3. Take a Coffee mug and add coffee powder, according to your preference
 4. Now pour the hot milk into coffee mug and stir it with a spoon
 5. Now add sugar according to your taste and enjoy the hot coffee.
+![CoffeeMakingProcess](images/coffeeMakingProcess_image.jpg)
 
 ### Ingredients needed to make coffee
-* Milk
-* Coffee Beans
-* Sugar
-* A vessel to boil milk
-* Coffee grinder to grind the beans
-* Coffee Mug 
+* Milk <br>![Milk](images/milk_image.jpg)
+* Coffee Beans  <br>![Coffee Beans](images/coffeeBeans_image.jpg)
+* Sugar <br>![Sugar](images/sugar_image.jpg)
+* A vessel to boil milk <br>![Vessel](images/milkVessel_image.jpg)
+* Coffee grinder to grind the beans <br>![Coffee grinder](images/coffeeGrinder_image.jpg)
+* Coffee Mug <br> ![coffee mug](images/coffeeMug_image.jpg)
 
 [***Click here to know about me***](AboutMe.md)
 
