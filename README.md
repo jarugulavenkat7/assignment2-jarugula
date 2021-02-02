@@ -47,4 +47,23 @@ Below are the list of places I have visited in India and the places I would like
 >"If you want to shine like a sun, first burn like a sun."<br>
 *- APJ Abdul Kalam*
 
+***
+# MATLAB
+
+>MATLAB (an abbreviation of "matrix laboratory") is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.
+
+Click here to navigate to the source page <https://en.wikipedia.org/wiki/MATLAB>
+
+```
+classdef Hello
+    methods
+        function greet(obj)
+            disp('Hello!')
+        end
+    end
+end
+
+```
+Click here to navigate to the code source page <https://en.wikipedia.org/wiki/MATLAB#Classes_and_object-oriented_programming>
+
 
