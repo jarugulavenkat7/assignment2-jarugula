@@ -39,4 +39,12 @@ Below are the list of places I have visited in India and the places I would like
 | Alibag Beach | 8hrs | $300 |
 | Ellora Caves | 4hrs| $200 |
 
+***
+# My favorite quotes 
+>"All power is within you; you can do anything and everything. Believe in that, do not believe that you are weak; do not believe that you are half-crazy lunatics, as most of us do nowadays. You can do any thing and everything, without even the guidance of any one. Stand up and express the divinity within you."<br>
+*- Swami Vivekananda*<br>
+
+>"If you want to shine like a sun, first burn like a sun."<br>
+*- APJ Abdul Kalam*
+
 
